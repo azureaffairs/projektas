@@ -1,1 +1,0 @@
-3 užduotis automatiškai susigeneruoja po to, kai yra atsakoma į 2 užduoties ivesk_atsakyma.py
