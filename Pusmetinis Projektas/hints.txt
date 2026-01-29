@@ -2,7 +2,8 @@
 2. Mįslė yra FLAG{} atsakymas! (Tai yra spalva)
 3. Nuotraukų analizė
 4. sys.gettrace = lambda: 1
-5. 
+5. Elementas
 6. Ceaser Cypher
+
 
 
