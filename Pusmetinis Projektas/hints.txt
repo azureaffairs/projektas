@@ -1,6 +1,7 @@
 1. Base64
-2. Tai yra spalva.
+2. Mįslė yra FLAG{} atsakymas! (Tai yra spalva)
 3. Nuotraukų analizė
 4.
-5. 
+5. sys.gettrace = lambda: 1
 6. Ceaser Cypher
+
