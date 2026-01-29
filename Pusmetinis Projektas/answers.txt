@@ -1,0 +1,6 @@
+1. FLAG{1uzduotis}
+2. FLAG{balta}
+3. FLAG{THE_CHAIR}
+4. FLAG{}
+5. FLAG{}
+6. FLAG{Suverenitetas}

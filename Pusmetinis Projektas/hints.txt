@@ -1,0 +1,6 @@
+1. Base64
+2. Tai yra spalva.
+3. 
+4.
+5. 
+6. Ceaser Cypher

@@ -1,0 +1,4 @@
+Capture the Flag | Taisyklės
+1. Negalima naudoti Dirbtinio intelekto, darant užduotis.
+2. Flag formatas yra FLAG{}.
+3. Sėkmės, jos reikės!
