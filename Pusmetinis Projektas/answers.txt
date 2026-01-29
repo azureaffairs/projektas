@@ -2,7 +2,8 @@
 2. FLAG{balta}
 3. FLAG{THE_CHAIR}
 4. FLAG{ramukainos}
-5. FLAG{uraniumas}
+5. FLAG{uranium}
 
 6. FLAG{Suverenitetas}
+
 
